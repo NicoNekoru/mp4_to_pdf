@@ -1,0 +1,1 @@
+Requires `ffmpeg` to be installed
